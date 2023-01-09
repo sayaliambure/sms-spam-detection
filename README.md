@@ -1,5 +1,7 @@
 # sms-spam-detection
 
+This is a end-to-end sms classification preject
+
 Here, we classify if the input sms is Spam or Not Spam. This same processes can be applied to classify email as well.
 
 Dataset uesd: SMS Spam Collection Dataset (kaggle)
